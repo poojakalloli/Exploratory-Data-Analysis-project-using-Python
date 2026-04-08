@@ -37,6 +37,12 @@ The dataset contains information used to analyze patterns and relationships betw
 * Visualized data for better understanding
 
 ---
+## 📸 Project Screenshots
+
+![Screenshot](Screenshot (147).png)
+![Screenshot](Screenshot (148).png)
+![Screenshot](Screenshot (149).png)
+![Screenshot](Screenshot (150).png)
 
 ## 📌 Conclusion
 
